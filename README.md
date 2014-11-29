@@ -1,4 +1,4 @@
-hello-world
+hello-kitty
 ===========
 
 This is a short description. It describes something.
